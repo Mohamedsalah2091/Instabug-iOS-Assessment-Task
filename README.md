@@ -1,5 +1,4 @@
-# Instabug-iOS-Assessment-Task
-
+# Movie List
 
 • Details					
 - Users should see a list of movies when they start the app with the section title “All Movies” . 
