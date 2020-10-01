@@ -1,11 +1,12 @@
 # Movie List
 
 • Details					
-- Users should see a list of movies when they start the app with the section title “All Movies” . 
-- Users should see for each movie entry: Title, overview, date and poster.
-- User should be able to load new pages as he scrolls down to the last cell.
-- Users should see a loading indicator at the bottom if the new page isn’t available. 
-- Users should be able to add a new movie of their own to the app.
-- Users should be able to set the Title, overview, date and Image for his movie
-- Users should be able to set the image for this movie from the gallery.
-- Users should be able to see his newly added movies in a new section at the top with title “My movies”.
+- Users can 
+ 1- See a list of movies when they start the app with the section title “All Movies” . 
+ 2- See for each movie entry: Title, overview, date and poster.
+ 3- Able to load new pages as he scrolls down to the last cell.
+ 4- See a loading indicator at the bottom if the new page isn’t available. 
+ 5- Able to add a new movie of their own to the app.
+ 6- Able to set the Title, overview, date and Image for his movie
+ 7- Able to set the image for this movie from the gallery.
+ 8- Able to see his newly added movies in a new section at the top with title “My movies”.
